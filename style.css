@@ -16,12 +16,12 @@ header {
     margin: 1em;
     font-size: 2em;
     justify-content: center;
-    font-weight: 400px;
     align-items: center;
 }
 
 header p {
 text-align: center;
+font-weight: 600;
 }
 
 .cruzRoja {
