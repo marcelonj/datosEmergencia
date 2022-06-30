@@ -20,6 +20,10 @@ header {
     align-items: center;
 }
 
+header p {
+text-align: center;
+}
+
 .cruzRoja {
     height: 1.5em;
 }
