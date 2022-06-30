@@ -18,11 +18,10 @@ header {
     justify-content: center;
     font-weight: 400px;
     align-items: center;
-    text-align: justify;
 }
 
 header p {
-text-align: justify;
+text-align: center;
 }
 
 .cruzRoja {
