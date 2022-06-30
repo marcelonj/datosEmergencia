@@ -1,0 +1,43 @@
+ * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arimo', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(86, 248, 126);
+}
+
+header {
+    display: flex;
+    margin: 1em;
+    font-size: 2em;
+    justify-content: center;
+    font-weight: 400px;
+    align-items: center;
+}
+
+.cruzRoja {
+    height: 1.5em;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+article section {
+    padding: .5em;
+    margin: .5em;
+}
+
+#donante {
+    color: rgb(209, 38, 38);
+}
+
+h1 {
+    margin-bottom: .3em;
+}
